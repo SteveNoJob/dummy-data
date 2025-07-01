@@ -1,0 +1,35 @@
+[
+  {
+    "Student ID": "S1234567A",
+    "Student Name": "Ali Rahman",
+    "Intake": "2024-01",
+    "Course code": "IT101",
+    "Text Field": "N/A",
+    "Passport / NRIC": "A123456789",
+    "Programme Name": "Diploma in Information Technology",
+    "Programme Commenced": "2024-01-10",
+    "Programme Completed": null
+  },
+  {
+    "Student ID": "S2345678B",
+    "Student Name": "Lim Mei Yee",
+    "Intake": "2023-09",
+    "Course code": "BA203",
+    "Text Field": "N/A",
+    "Passport / NRIC": "940210-14-1234",
+    "Programme Name": "Bachelor of Business Administration",
+    "Programme Commenced": "2023-09-05",
+    "Programme Completed": null
+  },
+  {
+    "Student ID": "S3456789C",
+    "Student Name": "John Tan",
+    "Intake": "2022-05",
+    "Course code": "ENG300",
+    "Text Field": "Transferred from another college",
+    "Passport / NRIC": "990101-10-5678",
+    "Programme Name": "Bachelor of Civil Engineering",
+    "Programme Commenced": "2022-05-15",
+    "Programme Completed": null
+  }
+]
