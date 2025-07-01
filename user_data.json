@@ -1,5 +1,4 @@
-{
-  "students": [
+[
     {
       "student_id": "S1234567A",
       "student_name": "Ali Rahman",
@@ -12,4 +11,3 @@
       "programme_completed": null
     }
   ]
-}
