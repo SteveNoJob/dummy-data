@@ -1,37 +1,15 @@
 {
   "students": [
     {
-      "Student ID": "S1234567A",
-      "Student Name": "Ali Rahman",
-      "Intake": "2024-01",
-      "Course code": "IT101",
-      "Date": "2024-01-15",
-      "Passport / NRIC": "A123456789",
-      "Programme Name": "Diploma in Information Technology",
-      "Programme Commenced": "2024-01-10",
-      "Programme Completed": null
-    },
-    {
-      "Student ID": "S2345678B",
-      "Student Name": "Lim Mei Yee",
-      "Intake": "2023-09",
-      "Course code": "BA203",
-      "Date": "2023-09-07",
-      "Passport / NRIC": "940210-14-1234",
-      "Programme Name": "Bachelor of Business Administration",
-      "Programme Commenced": "2023-09-05",
-      "Programme Completed": null
-    },
-    {
-      "Student ID": "S3456789C",
-      "Student Name": "John Tan",
-      "Intake": "2022-05",
-      "Course code": "ENG300",
-      "Date": "2022-05-20",
-      "Passport / NRIC": "990101-10-5678",
-      "Programme Name": "Bachelor of Civil Engineering",
-      "Programme Commenced": "2022-05-15",
-      "Programme Completed": null
+      "student_id": "S1234567A",
+      "student_name": "Ali Rahman",
+      "intake": "2024-01",
+      "course_code": "IT101",
+      "date": "2024-01-15",
+      "passport_nric": "A123456789",
+      "programme_name": "Diploma in Information Technology",
+      "programme_commenced": "2024-01-10",
+      "programme_completed": null
     }
   ]
 }
