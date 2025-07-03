@@ -1,14 +1,33 @@
-[
-    {
-      "student_id": "TP079256",
-      "student_name": "Ali Rahman",
-      "intake": "UCDF2307ICT(DI)",
-      "course_code": "IT101",
-      "date": "2024-01-15",
-      "passport_nric": "A123456789",
-      "programme_name": "Diploma in Information Technology",
-      "programme_commenced": "2024-01-10",
-      "programme_duration": "3 Years",
-      "programme_completed": "what is this?"
-    }
-]
+{
+  "TP102938": {
+    "student_name": "Ali Rahman",
+    "intake": "2024-01",
+    "course_code": "IT101",
+    "date": "2024-01-15",
+    "passport_nric": "A123456789",
+    "programme_name": "Diploma in Information Technology",
+    "programme_commenced": "2024-01-10",
+    "programme_completed": null
+  },
+  "TP837465": {
+    "student_name": "Lim Mei Yee",
+    "intake": "2023-09",
+    "course_code": "BA203",
+    "date": "2023-09-07",
+    "passport_nric": "940210-14-1234",
+    "programme_name": "Bachelor of Business Administration",
+    "programme_commenced": "2023-09-05",
+    "programme_completed": null
+  },
+  "TP564738": {
+    "student_name": "John Tan",
+    "intake": "2022-05",
+    "course_code": "ENG300",
+    "date": "2022-05-20",
+    "passport_nric": "990101-10-5678",
+    "programme_name": "Bachelor of Civil Engineering",
+    "programme_commenced": "2022-05-15",
+    "programme_completed": null
+  }
+}
+
