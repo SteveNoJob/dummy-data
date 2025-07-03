@@ -9,7 +9,8 @@
     "programme_commenced": "2024-01-10",
     "programme_completed": null
   },
-  "TP837465": {
+  "admin": {
+    "student_id":"TP057842"
     "student_name": "Lim Mei Yee",
     "intake": "2023-09",
     "course_code": "BA203",
