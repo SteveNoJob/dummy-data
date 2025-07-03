@@ -9,5 +9,5 @@
     "programme_commenced": "2023-09-05",
     "programme_duration": "3 Years",
     "programme_completed": null,
-    "is_eligible": false
+    "is_eligible": true
 }
