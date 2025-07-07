@@ -8,6 +8,7 @@
     "programme_name": "Bachelor of Business Administration",
     "programme_commenced": "2023-09-05",
     "programme_duration": "3 Years",
-    "programme_completed": null,
-    "is_eligible": true
+    "programme_completed": true,
+    "is_eligible": true,
+    "pending_module": 0
 }
