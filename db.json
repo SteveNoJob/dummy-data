@@ -1,5 +1,4 @@
-[
-  {
+{
     "student_id": "TP057842",
     "student_name": "Lim Mei Yee",
     "intake": "UCDF2307ICT(SE)",
@@ -54,5 +53,5 @@
     "programme_completed": "2025-10-14",
     "is_eligible": false,
     "pending_module": 2
-  }
-]
+}
+
