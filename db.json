@@ -1,7 +1,7 @@
 {
 "students": [
     {
-    "student_id": "TP057842",
+    "id": "TP057842",
     "student_name": "Lim Mei Yee",
     "intake": "UCDF2307ICT(SE)",
     "course_code": "BA203",
@@ -15,7 +15,7 @@
     "pending_module": 0
   },
   {
-    "student_id": "TP057843",
+    "id": "TP057843",
     "student_name": "Ali Bin Ahmad",
     "intake": "UCDF2307ICT(SE)",
     "course_code": "BA204",
@@ -29,7 +29,7 @@
     "pending_module": 1
   },
   {
-    "student_id": "TP057844",
+    "id": "TP057844",
     "student_name": "Siti Nurhaliza",
     "intake": "UCDF2307ICT(SE)",
     "course_code": "BA205",
@@ -43,7 +43,7 @@
     "pending_module": 0
   },
   {
-    "student_id": "TP057845",
+    "id": "TP057845",
     "student_name": "Tan Jia Wei",
     "intake": "UCDF2307ICT(SE)",
     "course_code": "BA206",
