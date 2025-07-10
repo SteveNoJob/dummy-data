@@ -1,11 +1,58 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "student_id": "TP057842",
+    "student_name": "Lim Mei Yee",
+    "intake": "UCDF2307ICT(SE)",
+    "course_code": "BA203",
+    "date": "2023-09-07",
+    "passport_nric": "940210-14-1234",
+    "programme_name": "Bachelor of Business Administration",
+    "programme_commenced": "2023-09-05",
+    "programme_duration": "3 Years",
+    "programme_completed": "2025-10-11",
+    "is_eligible": false,
+    "pending_module": 0
+  },
+  {
+    "student_id": "TP057843",
+    "student_name": "Ali Bin Ahmad",
+    "intake": "UCDF2307ICT(SE)",
+    "course_code": "BA204",
+    "date": "2023-09-08",
+    "passport_nric": "940310-14-5678",
+    "programme_name": "Bachelor of Accounting",
+    "programme_commenced": "2023-09-05",
+    "programme_duration": "3 Years",
+    "programme_completed": "2025-10-12",
+    "is_eligible": true,
+    "pending_module": 1
+  },
+  {
+    "student_id": "TP057844",
+    "student_name": "Siti Nurhaliza",
+    "intake": "UCDF2307ICT(SE)",
+    "course_code": "BA205",
+    "date": "2023-09-09",
+    "passport_nric": "940410-14-9876",
+    "programme_name": "Bachelor of Finance",
+    "programme_commenced": "2023-09-05",
+    "programme_duration": "3 Years",
+    "programme_completed": "2025-10-13",
+    "is_eligible": true,
+    "pending_module": 0
+  },
+  {
+    "student_id": "TP057845",
+    "student_name": "Tan Jia Wei",
+    "intake": "UCDF2307ICT(SE)",
+    "course_code": "BA206",
+    "date": "2023-09-10",
+    "passport_nric": "940510-14-1122",
+    "programme_name": "Bachelor of Economics",
+    "programme_commenced": "2023-09-05",
+    "programme_duration": "3 Years",
+    "programme_completed": "2025-10-14",
+    "is_eligible": false,
+    "pending_module": 2
   }
-}
+]
