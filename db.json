@@ -15,6 +15,21 @@
     "pending_module": 0,
     "email": "lim@apu.edu.my"
   },
+    {
+    "id": "TP047840",
+    "student_name": "Sum Gu Jie",
+    "intake": "AIEF7893CS",
+    "course_code": "BA203",
+    "date": "2023-09-07",
+    "passport_nric": "940210-14-1234",
+    "programme_name": "Bachelor of Business Administration",
+    "programme_commenced": "2023-09-05",
+    "programme_duration": "3 Years",
+    "programme_completed": "2025-10-11",
+    "is_eligible": false,
+    "pending_module": 0,
+    "email": "lim@apu.edu.my"
+  },
   {
     "id": "TP057843",
     "student_name": "Ali Bin Ahmad",
