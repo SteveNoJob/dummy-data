@@ -14,6 +14,7 @@
     "is_eligible": false,
     "pending_module": 0,
     "email": "lim@apu.edu.my",
+    "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
@@ -32,6 +33,7 @@
     "is_eligible": false,
     "pending_module": 0,
     "email": "lim@apu.edu.my",
+    "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
@@ -50,6 +52,7 @@
     "is_eligible": true,
     "pending_module": 1,
     "email": "ali@apu.edu.my",
+    "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
@@ -68,6 +71,7 @@
     "is_eligible": true,
     "pending_module": 0,
     "email": "siti@apu.edu.my",
+    "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
@@ -86,6 +90,7 @@
     "is_eligible": false,
     "pending_module": 2,
     "email": "tan@apu.edu.my",
+    "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
@@ -104,6 +109,7 @@
     "is_eligible": false,
     "pending_module": 2,
     "email": "joshualim9219@yahoo.com",
+    "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
@@ -122,6 +128,7 @@
     "is_eligible": false,
     "pending_module": 2,
     "email": "deafdevdave7355608@gmail.com",
+    "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my"
