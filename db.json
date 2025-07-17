@@ -53,7 +53,7 @@
     "programme_completed": "2025-10-12",
     "is_eligible_attended": true,
     "is_eligible_completion": false,
-    "pending_module": 2,
+    "pending_module": 0,
     "email": "ali@apu.edu.my",
     "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
