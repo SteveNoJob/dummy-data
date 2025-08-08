@@ -18,7 +18,8 @@
     "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
-    "coordinator_email": "chongnyuk@apu.edu.my"
+    "coordinator_email": "chongnyuk@apu.edu.my",
+    "status": "active"
   },
     {
     "id": "TP047840",
@@ -38,7 +39,8 @@
     "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
-    "coordinator_email": "chongnyuk@apu.edu.my"
+    "coordinator_email": "chongnyuk@apu.edu.my",
+    "status": "active"
   },
   {
     "id": "TP057843",
