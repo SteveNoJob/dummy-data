@@ -13,13 +13,13 @@
     "programme_completed": "2025-10-11",
     "is_eligible_attended": true,
     "is_eligible_completion": true,
-    "pending_module": 0,
+    "pending_module": "",
     "email": "lim@apu.edu.my",
     "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Completed"
   },
     {
     "id": "TP047840",
@@ -32,15 +32,15 @@
     "programme_commenced": "2023-09-05",
     "programme_duration": "3 Years",
     "programme_completed": "2025-10-11",
-    "is_eligible_attended": false,
-    "is_eligible_completion": false,
-    "pending_module": 0,
+    "is_eligible_attended": true,
+    "is_eligible_completion": true,
+    "pending_module": "",
     "email": "lim@apu.edu.my",
     "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Active"
   },
   {
     "id": "TP057843",
@@ -55,13 +55,13 @@
     "programme_completed": "2025-10-12",
     "is_eligible_attended": true,
     "is_eligible_completion": false,
-    "pending_module": 1,
+    "pending_module": "CT051-3-3-SQE",
     "email": "ali@apu.edu.my",
     "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Active"
   },
   {
     "id": "TP057844",
@@ -76,13 +76,13 @@
     "programme_completed": "2025-10-13",
     "is_eligible_attended": true,
     "is_eligible_completion": true,
-    "pending_module": 0,
+    "pending_module": "",
     "email": "siti@apu.edu.my",
     "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Completed"
   },
   {
     "id": "TP057845",
@@ -97,13 +97,13 @@
     "programme_completed": "2025-10-14",
     "is_eligible_attended": false,
     "is_eligible_completion": false,
-    "pending_module": 2,
+    "pending_module": "CT051-3-3-SQE;AT051-3-4-AIE",
     "email": "TP076115@mail.apu.edu.my",
     "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Active"
 },
   {
     "id": "TP057846",
@@ -118,13 +118,13 @@
     "programme_completed": "2025-10-14",
     "is_eligible_attended": true,
     "is_eligible_completion": false,
-    "pending_module": 2,
+    "pending_module": "CT051-3-3-SQE;AT051-3-4-AIE",
     "email": "joshualim9219@yahoo.com",
     "coordinator_id": "C01",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Active"
 },
   {
     "id": "TP057847",
@@ -139,13 +139,13 @@
     "programme_completed": "2025-10-14",
     "is_eligible_attended": false,
     "is_eligible_completion": false,
-    "pending_module": 2,
+    "pending_module": "CT051-3-3-SQE;AT051-3-4-AIE;BT033-1-1-ICT",
     "email": "deafdevdave7355608@gmail.com",
     "coordinator_id": "C02",
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "COMPLETED"
+    "status": "Active"
 }
 ]
 }
