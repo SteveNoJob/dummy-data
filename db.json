@@ -19,7 +19,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Completed"
+    "status": "Completed",
+    "CURRENT_LEVEL": "Degree"
   },
     {
     "id": "TP047840",
@@ -40,7 +41,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Active"
+    "status": "Active",
+    "CURRENT_LEVEL": "Degree"
   },
   {
     "id": "TP057843",
@@ -61,7 +63,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Active"
+    "status": "Active",
+    "CURRENT_LEVEL": "Degree"
   },
   {
     "id": "TP057844",
@@ -82,7 +85,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Completed"
+    "status": "Completed",
+    "CURRENT_LEVEL": "Degree"
   },
   {
     "id": "TP057845",
@@ -103,7 +107,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Active"
+    "status": "Active",
+    "CURRENT_LEVEL": "Degree"
 },
   {
     "id": "TP057846",
@@ -124,7 +129,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Active"
+    "status": "Active",
+    "CURRENT_LEVEL": "Degree"
 },
   {
     "id": "TP057847",
@@ -145,7 +151,8 @@
     "dept_name": "Computing & Technology",
     "coordinator_name": "Chong Nyuk Chin",
     "coordinator_email": "chongnyuk@apu.edu.my",
-    "status": "Active"
+    "status": "Active",
+    "CURRENT_LEVEL": "Degree"
 }
 ]
 }
